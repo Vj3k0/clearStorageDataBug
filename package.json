@@ -1,0 +1,9 @@
+{
+  "name": "clearStorageDataBug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "~1.7.8"
+  }
+}
